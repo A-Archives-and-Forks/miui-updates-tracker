@@ -19378,16 +19378,16 @@
   name: Redmi Note 14 Pro 4G EEA
   size: 7.1 GB
   version: OS2.0.215.0.VOFEUXM
-- android: '14.0'
+- android: '16.0'
   branch: Stable Beta
   codename: obsidian_global
-  date: 2025-01-13
-  link: https://bigota.d.miui.com/OS1.0.2.0.UOFMIXM/miui_OBSIDIANGlobal_OS1.0.2.0.UOFMIXM_e39603a780_14.0.zip
-  md5: e39603a780f1d77a02ed989519772691
+  date: 2026-02-11
+  link: https://bigota.d.miui.com/OS3.0.4.0.WOFMIXM/obsidian_global-ota_full-OS3.0.4.0.WOFMIXM-user-16.0-ea25cc6c80.zip
+  md5: ea25cc6c80cb1905c466ca24dbd51584
   method: Recovery
   name: Redmi Note 14 Pro 4G Global
-  size: 4.6 GB
-  version: OS1.0.2.0.UOFMIXM
+  size: 5.3 GB
+  version: OS3.0.4.0.WOFMIXM
 - android: '15.0'
   branch: Stable
   codename: obsidian_global
